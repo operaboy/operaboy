@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @operaboy
 - 👀 I’m interested in many languages, foood and coding,
-  Nice to meet you :) AND welcome in my profile
+  Nice to meet you
 
 <!---
 operaboy/operaboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,4 +4,5 @@
 - I will count to zero from today
 - ten
 - nine
-- still counting 
+- still counting
+- EIGHT 

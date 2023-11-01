@@ -5,3 +5,4 @@
 - ten
 - nine
 - still counting
+- eight 

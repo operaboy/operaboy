@@ -7,3 +7,4 @@
 - still counting
 - eight
 - seven
+  - SIX 

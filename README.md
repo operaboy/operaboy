@@ -5,4 +5,3 @@
   or from tomorow
   MONEYFLOW 
 MONEYIN
-  moneyout 

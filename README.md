@@ -3,5 +3,4 @@
 - how many days till the end of october ?
 - I will count to zero from today
   or from tomorow
-  MONEYFLOW 
 KEBAB AND PIZZA is my favorite food 

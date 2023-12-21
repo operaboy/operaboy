@@ -5,4 +5,3 @@
   or from tomorow
 KEBAB AND PIZZA is my favorite food 
 are my favorite foods ? 
-guess

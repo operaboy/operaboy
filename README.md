@@ -4,4 +4,3 @@
 - I will count to zero from today
   or from tomorow
 KEBAB AND PIZZA is my favorite food 
-COLD AND WARM 
